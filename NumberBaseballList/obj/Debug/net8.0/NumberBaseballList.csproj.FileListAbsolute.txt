@@ -1,0 +1,29 @@
+D:\GitHub\C_Class\NumberBaseballList\bin\Debug\net8.0\NumberBaseballList.exe
+D:\GitHub\C_Class\NumberBaseballList\bin\Debug\net8.0\NumberBaseballList.deps.json
+D:\GitHub\C_Class\NumberBaseballList\bin\Debug\net8.0\NumberBaseballList.runtimeconfig.json
+D:\GitHub\C_Class\NumberBaseballList\bin\Debug\net8.0\NumberBaseballList.dll
+D:\GitHub\C_Class\NumberBaseballList\bin\Debug\net8.0\NumberBaseballList.pdb
+D:\GitHub\C_Class\NumberBaseballList\obj\Debug\net8.0\NumberBaseballList.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C_Class\NumberBaseballList\obj\Debug\net8.0\NumberBaseballList.AssemblyInfoInputs.cache
+D:\GitHub\C_Class\NumberBaseballList\obj\Debug\net8.0\NumberBaseballList.AssemblyInfo.cs
+D:\GitHub\C_Class\NumberBaseballList\obj\Debug\net8.0\NumberBaseballList.csproj.CoreCompileInputs.cache
+D:\GitHub\C_Class\NumberBaseballList\obj\Debug\net8.0\NumberBaseballList.sourcelink.json
+D:\GitHub\C_Class\NumberBaseballList\obj\Debug\net8.0\NumberBaseballList.dll
+D:\GitHub\C_Class\NumberBaseballList\obj\Debug\net8.0\refint\NumberBaseballList.dll
+D:\GitHub\C_Class\NumberBaseballList\obj\Debug\net8.0\NumberBaseballList.pdb
+D:\GitHub\C_Class\NumberBaseballList\obj\Debug\net8.0\NumberBaseballList.genruntimeconfig.cache
+D:\GitHub\C_Class\NumberBaseballList\obj\Debug\net8.0\ref\NumberBaseballList.dll
+C:\새 폴더\NumberBaseballList\obj\Debug\net8.0\NumberBaseballList.GeneratedMSBuildEditorConfig.editorconfig
+C:\새 폴더\NumberBaseballList\obj\Debug\net8.0\NumberBaseballList.AssemblyInfoInputs.cache
+C:\새 폴더\NumberBaseballList\obj\Debug\net8.0\NumberBaseballList.AssemblyInfo.cs
+C:\새 폴더\NumberBaseballList\obj\Debug\net8.0\NumberBaseballList.csproj.CoreCompileInputs.cache
+C:\새 폴더\NumberBaseballList\obj\Debug\net8.0\NumberBaseballList.dll
+C:\새 폴더\NumberBaseballList\obj\Debug\net8.0\refint\NumberBaseballList.dll
+C:\새 폴더\NumberBaseballList\obj\Debug\net8.0\NumberBaseballList.pdb
+C:\새 폴더\NumberBaseballList\bin\Debug\net8.0\NumberBaseballList.exe
+C:\새 폴더\NumberBaseballList\bin\Debug\net8.0\NumberBaseballList.deps.json
+C:\새 폴더\NumberBaseballList\bin\Debug\net8.0\NumberBaseballList.runtimeconfig.json
+C:\새 폴더\NumberBaseballList\bin\Debug\net8.0\NumberBaseballList.dll
+C:\새 폴더\NumberBaseballList\bin\Debug\net8.0\NumberBaseballList.pdb
+C:\새 폴더\NumberBaseballList\obj\Debug\net8.0\NumberBaseballList.genruntimeconfig.cache
+C:\새 폴더\NumberBaseballList\obj\Debug\net8.0\ref\NumberBaseballList.dll
