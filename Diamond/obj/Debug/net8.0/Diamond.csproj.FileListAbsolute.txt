@@ -1,0 +1,29 @@
+D:\GitHub\C_Class\Diamond\bin\Debug\net8.0\Diamond.exe
+D:\GitHub\C_Class\Diamond\bin\Debug\net8.0\Diamond.deps.json
+D:\GitHub\C_Class\Diamond\bin\Debug\net8.0\Diamond.runtimeconfig.json
+D:\GitHub\C_Class\Diamond\bin\Debug\net8.0\Diamond.dll
+D:\GitHub\C_Class\Diamond\bin\Debug\net8.0\Diamond.pdb
+D:\GitHub\C_Class\Diamond\obj\Debug\net8.0\Diamond.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C_Class\Diamond\obj\Debug\net8.0\Diamond.AssemblyInfoInputs.cache
+D:\GitHub\C_Class\Diamond\obj\Debug\net8.0\Diamond.AssemblyInfo.cs
+D:\GitHub\C_Class\Diamond\obj\Debug\net8.0\Diamond.csproj.CoreCompileInputs.cache
+D:\GitHub\C_Class\Diamond\obj\Debug\net8.0\Diamond.sourcelink.json
+D:\GitHub\C_Class\Diamond\obj\Debug\net8.0\Diamond.dll
+D:\GitHub\C_Class\Diamond\obj\Debug\net8.0\refint\Diamond.dll
+D:\GitHub\C_Class\Diamond\obj\Debug\net8.0\Diamond.pdb
+D:\GitHub\C_Class\Diamond\obj\Debug\net8.0\Diamond.genruntimeconfig.cache
+D:\GitHub\C_Class\Diamond\obj\Debug\net8.0\ref\Diamond.dll
+C:\새 폴더\C_Class-main\C_Class-main\Diamond\bin\Debug\net8.0\Diamond.exe
+C:\새 폴더\C_Class-main\C_Class-main\Diamond\bin\Debug\net8.0\Diamond.deps.json
+C:\새 폴더\C_Class-main\C_Class-main\Diamond\bin\Debug\net8.0\Diamond.runtimeconfig.json
+C:\새 폴더\C_Class-main\C_Class-main\Diamond\bin\Debug\net8.0\Diamond.dll
+C:\새 폴더\C_Class-main\C_Class-main\Diamond\bin\Debug\net8.0\Diamond.pdb
+C:\새 폴더\C_Class-main\C_Class-main\Diamond\obj\Debug\net8.0\Diamond.GeneratedMSBuildEditorConfig.editorconfig
+C:\새 폴더\C_Class-main\C_Class-main\Diamond\obj\Debug\net8.0\Diamond.AssemblyInfoInputs.cache
+C:\새 폴더\C_Class-main\C_Class-main\Diamond\obj\Debug\net8.0\Diamond.AssemblyInfo.cs
+C:\새 폴더\C_Class-main\C_Class-main\Diamond\obj\Debug\net8.0\Diamond.csproj.CoreCompileInputs.cache
+C:\새 폴더\C_Class-main\C_Class-main\Diamond\obj\Debug\net8.0\Diamond.dll
+C:\새 폴더\C_Class-main\C_Class-main\Diamond\obj\Debug\net8.0\refint\Diamond.dll
+C:\새 폴더\C_Class-main\C_Class-main\Diamond\obj\Debug\net8.0\Diamond.pdb
+C:\새 폴더\C_Class-main\C_Class-main\Diamond\obj\Debug\net8.0\Diamond.genruntimeconfig.cache
+C:\새 폴더\C_Class-main\C_Class-main\Diamond\obj\Debug\net8.0\ref\Diamond.dll
